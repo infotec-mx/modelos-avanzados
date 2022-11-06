@@ -4,7 +4,7 @@
 
 **Dr. Juliho Castillo Colmenares, INFOTEC**
 
-## Rubrica
+## Rúbrica
 
 1.   El proyecto integrador deberá elaborarse en formato `.ipynb`. 
 2.   Este proyecto deberá estar concentrado en un repositorio público de `GitHub`, cuya dirección se entregará en el apartado correspondiente en Moodle. 
